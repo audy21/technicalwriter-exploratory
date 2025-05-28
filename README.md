@@ -3,7 +3,7 @@
 ## Overview
 This repository showcases comprehensive technical writing samples across various domains and document types. Created for educational and professional demonstration purposes.
 
-**Author:** Technical Writer Portfolio  
+**Author:** Audy M 
 **Purpose:** Demonstrating expertise in technical communication, documentation design, and user experience
 
 ---
