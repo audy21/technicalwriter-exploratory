@@ -34,13 +34,13 @@ This repository showcases comprehensive technical writing samples across various
 
 | Document Type | Banking | Healthcare | E-commerce | DevOps |
 |---------------|---------|------------|------------|--------|
-| Product Overview | ✅ | ✅ | ✅ | TBA |
-| Developer Docs | ✅ | ✅ | ✅ | TBA |
-| API Reference | ✅ | ✅ | ✅ | TBA |
-| How-to Guides | ✅ | ✅ | ✅ | TBA |
-| Troubleshooting | ✅ | ✅ | ✅ | TBA |
-| Release Notes | ✅ | ✅ | ✅ | TBA |
-| Case Studies | ✅ | ✅ | ✅ | TBA |
+| Product Overview | ✅ | ✅ | On Going | TBA |
+| Developer Docs | ✅ | ✅ | On Going | TBA |
+| API Reference | ✅ | ✅ | On Going | TBA |
+| How-to Guides | ✅ | ✅ | On Going | TBA |
+| Troubleshooting | ✅ | ✅ | On Going | TBA |
+| Release Notes | ✅ | ✅ | On Going | TBA |
+| Case Studies | ✅ | ✅ | On Going | TBA |
 
 ---
 
